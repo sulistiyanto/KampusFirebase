@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530782925016",
+    "project_id": "kampus-firebase",
+    "storage_bucket": "kampus-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530782925016:android:5e2787f701bbaad212e7ad",
+        "android_client_info": {
+          "package_name": "com.kampus.merdeka.kampusfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530782925016-becvjmhh0puuc9abu4reubm05ibdfg7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb60BgxTX-RWc7tclEqcUR9zGHQ_iOw8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530782925016-becvjmhh0puuc9abu4reubm05ibdfg7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
